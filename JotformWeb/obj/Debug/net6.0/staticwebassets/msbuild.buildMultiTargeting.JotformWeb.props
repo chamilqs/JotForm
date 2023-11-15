@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\JotformWeb.props" />
+</Project>

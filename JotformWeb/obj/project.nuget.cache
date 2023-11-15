@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "UNKuiTU0qqM3SByA8/lhbZe48wRj6voKNL7I282lUipAgpV6Qh8AXhf05IS0vR28AFm1cAMbDdpffVg6QTeJqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samil Quezada Suriel\\Downloads\\Compressed\\jotform-api-csharp-master\\jotform-api-csharp-master\\JotformWeb\\JotformWeb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samil Quezada Suriel\\.nuget\\packages\\httpclientlibrary\\0.0.3\\httpclientlibrary.0.0.3.nupkg.sha512",
+    "C:\\Users\\Samil Quezada Suriel\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Samil Quezada Suriel\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\Samil Quezada Suriel\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Samil Quezada Suriel\\.nuget\\packages\\microsoft.extensions.http\\8.0.0\\microsoft.extensions.http.8.0.0.nupkg.sha512",
+    "C:\\Users\\Samil Quezada Suriel\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\Samil Quezada Suriel\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Samil Quezada Suriel\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\Samil Quezada Suriel\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\Samil Quezada Suriel\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Samil Quezada Suriel\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
